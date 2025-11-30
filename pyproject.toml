@@ -1,0 +1,21 @@
+[project]
+name = "pythonipelago_quasky"
+version = "0.0.1"
+authors = [
+  { name="Jacob Lewis", email="JacobMLewis@live.com" },
+]
+description = "A lightweight python library for intigration with the Archipelago platform"
+readme = "README.md"
+requires-python = ">=3.12"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Development Status :: 1 - Planning",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+keywords = ["archipelago", "ap", "python", "multiserver"]
+
+[project.urls]
+Homepage = "https://github.com/Quasky/Pythonipelago"
